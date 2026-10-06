@@ -1,0 +1,12 @@
+root = true
+
+# Markdown ¹®¼­´Â UTF-8
+[*.md]
+charset = utf-8
+
+# Classic ASP (EUC-KR / CP949)
+[*.asp]
+charset = cp949
+
+[*.inc]
+charset = cp949
